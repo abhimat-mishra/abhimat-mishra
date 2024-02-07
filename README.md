@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abhimat-mishra
 - 👀 I’m interested in Software and Web Development
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mishraabhimat@gmail.com
 - ⚡ Fun fact: I am a beginner, but a fast learner!
 
